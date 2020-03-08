@@ -1,6 +1,6 @@
 # Blinx
 
-Blinx is a Microsoft Word (for Windows) add-in that converts Bible references within Word into Bible links: Have a look at [this example Word document](/docs/Example article with Bible links.doc) or even [this pdf](/docs/Example article with Bible links.pdf). These Blinks contain the passage (stored as an endnote in the Word document), which becomes visible as a tooltip when the mouse pointer is hovering over it. They are also hyperlinks to an online Bible ("ctrl-left click" on the link). On computers where the Blinx add-on and [BibleWorks](http://www.bibleworks.com) are installed, a "right-click" on the link opens it directly in BibleWorks.
+Blinx is a Microsoft Word (for Windows) add-in that converts Bible references within Word into Bible links: Have a look at [this example Word document](docs/Example%20article%20with%20Bible%20links.doc) or even [this pdf](/docs/Example%20article%20with%20Bible%20links.pdf). These Blinks contain the passage (stored as an endnote in the Word document), which becomes visible as a tooltip when the mouse pointer is hovering over it. They are also hyperlinks to an online Bible ("ctrl-left click" on the link). On computers where the Blinx add-on and [BibleWorks](http://www.bibleworks.com) are installed, a "right-click" on the link opens it directly in BibleWorks.
 
 The following screencast demonstrates the main features of the add-in:
 

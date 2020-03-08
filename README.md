@@ -1,6 +1,6 @@
 # Blinx
 
-Blinx is a Microsoft Word (for Windows) add-in that converts Bible references within Word into Bible links: Have a look at [this example Word document](docs/Example%20article%20with%20Bible%20links.doc) or even [this pdf](/docs/Example%20article%20with%20Bible%20links.pdf). These Blinks contain the passage (stored as an endnote in the Word document), which becomes visible as a tooltip when the mouse pointer is hovering over it. They are also hyperlinks to an online Bible ("ctrl-left click" on the link). On computers where the Blinx add-on and [BibleWorks](http://www.bibleworks.com) are installed, a "right-click" on the link opens it directly in BibleWorks.
+Blinx is a Microsoft Word (for Windows) add-in that converts Bible references within Word into Bible links: Have a look at [this example Word document](/docs/Example%20article%20with%20Bible%20links.doc) or even [this pdf](/docs/Example%20article%20with%20Bible%20links.pdf). These Blinks contain the passage (stored as an endnote in the Word document), which becomes visible as a tooltip when the mouse pointer is hovering over it. They are also hyperlinks to an online Bible ("ctrl-left click" on the link). On computers where the Blinx add-on and [BibleWorks](http://www.bibleworks.com) are installed, a "right-click" on the link opens it directly in BibleWorks.
 
 The following screencast demonstrates the main features of the add-in:
 
@@ -57,7 +57,7 @@ Let me know about bugs or improvements that would be useful at https://github.co
 - A complete redesign of the core functionality of the plugin into a cross-platform library that could also be made available through a public API would be desirable. See [blinx-core](https://github.com/renehamburger/blinx-core) for an initial proof of concept.
 - A plugin system could be used to add any data source for retrieving Scripture passages (e.g., BibleWorks, Logos, theWord, free online Bibles & Bible APIs).
 - Custom add-ons for Word, Open Office Writer, Adobe Acrobat, Google Docs could then be added to creating Bible links on the fly.
-- (The [example pdf](/docs/Example article with Bible links.pdf) linked above was generated with an alpha version of such an Adobe Acrobat plugin.)
+- (The [example pdf](/docs/Example%20article%20with%20Bible%20links.pdf) linked above was generated with an alpha version of such an Adobe Acrobat plugin.)
 - I'm looking for other developers to join the project before embarking on it.
 
 

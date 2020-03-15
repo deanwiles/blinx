@@ -36,7 +36,7 @@ The following screencast demonstrates the main features of the add-in:
 
 ### Copyright
 - The current version of Blinx obtains Bible passages either from BibleWorks or Logos (if installed) or otherwise from [www.biblegateway.com](http://www.biblegateway.com/) for this initial proof of concept.
-- All modern Bible versions are copyrighted. See [www.biblegateway.com/version](http://www.biblegateway.com/version) for copyright regulations of various Bible versions. For extensive quotes in a publication (usually if over 200 verses or more than 10% of a biblical book), a permission in writing needs to be obtained from the appropriate copyright owner.
+- All modern Bible versions are copyrighted. See [www.biblegateway.com/versions](http://www.biblegateway.com/versions) for copyright regulations of various Bible versions. For extensive quotes in a publication (usually if over 200 verses or more than 10% of a biblical book), a permission in writing needs to be obtained from the appropriate copyright owner.
 - Copyright notices will need to be added manually, especially if the document is to be shared.
 
 ### Limitiations & known issues
